@@ -13,3 +13,5 @@ steps:
   displayName: 'stage-2'
 - script: echo "welcome to my world"
   displayName: 'stage-3'  
+- script: echo "This is Bhargav reporting"
+  displayName: 'stage-4' 
